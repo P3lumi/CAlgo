@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\CAlgo\CAlgo\bin\Debug\net5.0\CAlgo.exe
+C:\Users\hp\Desktop\CAlgo\CAlgo\bin\Debug\net5.0\CAlgo.deps.json
+C:\Users\hp\Desktop\CAlgo\CAlgo\bin\Debug\net5.0\CAlgo.runtimeconfig.json
+C:\Users\hp\Desktop\CAlgo\CAlgo\bin\Debug\net5.0\CAlgo.runtimeconfig.dev.json
+C:\Users\hp\Desktop\CAlgo\CAlgo\bin\Debug\net5.0\CAlgo.dll
+C:\Users\hp\Desktop\CAlgo\CAlgo\bin\Debug\net5.0\ref\CAlgo.dll
+C:\Users\hp\Desktop\CAlgo\CAlgo\bin\Debug\net5.0\CAlgo.pdb
+C:\Users\hp\Desktop\CAlgo\CAlgo\obj\Debug\net5.0\CAlgo.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\CAlgo\CAlgo\obj\Debug\net5.0\CAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\CAlgo\CAlgo\obj\Debug\net5.0\CAlgo.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\CAlgo\CAlgo\obj\Debug\net5.0\CAlgo.AssemblyInfo.cs
+C:\Users\hp\Desktop\CAlgo\CAlgo\obj\Debug\net5.0\CAlgo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CAlgo\CAlgo\obj\Debug\net5.0\CAlgo.dll
+C:\Users\hp\Desktop\CAlgo\CAlgo\obj\Debug\net5.0\ref\CAlgo.dll
+C:\Users\hp\Desktop\CAlgo\CAlgo\obj\Debug\net5.0\CAlgo.pdb
+C:\Users\hp\Desktop\CAlgo\CAlgo\obj\Debug\net5.0\CAlgo.genruntimeconfig.cache
